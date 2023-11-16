@@ -2,13 +2,11 @@ package Demotest;
 
 import org.testng.annotations.Test;
 
-public class tc2 {
+public class tc3 {
 	
 	@Test
-	public void m2()
+	public void m3()
 	{
-		System.out.println("tc2 done");
-		
 		System.out.println("tc3 done");
 	}
 
