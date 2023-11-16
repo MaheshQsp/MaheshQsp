@@ -9,6 +9,7 @@ public class tc1test {
 	public void m1()
 	{
 		Reporter.log("haiii bro chill up", true);
+		//
 	}
 
 }
